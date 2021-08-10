@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "845524882749",
+    "project_id": "social-app-58346",
+    "storage_bucket": "social-app-58346.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845524882749:android:9684a452c76105cc57a154",
+        "android_client_info": {
+          "package_name": "com.penguininc.socialmediaapp.socialmedia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845524882749-mk57tp41a278cvjpfdhc29i75b5f1o0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.penguininc.socialmediaapp.socialmedia_app",
+            "certificate_hash": "bfbcf96f1da5d662d62e61fe59a4c75c8d880792"
+          }
+        },
+        {
+          "client_id": "845524882749-6g42um2setg8kesir4kiun9p8739663v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxm_80wYWgFtMIIl_XStSXZn6NAY1AxJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845524882749-6g42um2setg8kesir4kiun9p8739663v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
